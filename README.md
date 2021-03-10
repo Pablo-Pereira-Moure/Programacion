@@ -1,4 +1,4 @@
-# Programacion
+# Programación
 Nuevo repositorio para boletines de programación
 
 ## 1º Evaluación
