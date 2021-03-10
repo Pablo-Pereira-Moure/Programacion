@@ -14,7 +14,7 @@ Nuevo repositorio para boletines de programación
 - [x] ~~Boletín 10~~ 
 - [x] [Boletín 11](https://github.com/Pablo-Pereira-Moure/Programacion/tree/main/src/com/1%C2%AA%20evaluaci%C3%B3n/Boletin%2011)
 
-## 2º Evaluació
+## 2º Evaluación
 - [x] [Boletín 12](https://github.com/Pablo-Pereira-Moure/Programacion/tree/main/src/com/2%C2%BA%20evaluaci%C3%B3n/Boletin%2012)
 - [x] [Boletín 13](https://github.com/Pablo-Pereira-Moure/Programacion/tree/main/src/com/2%C2%BA%20evaluaci%C3%B3n/Boletin%2013)
 - [x] [Boletín 14](https://github.com/Pablo-Pereira-Moure/Programacion/tree/main/src/com/2%C2%BA%20evaluaci%C3%B3n/Boletin%2014)
