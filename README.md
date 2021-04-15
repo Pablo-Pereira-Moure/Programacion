@@ -25,4 +25,4 @@ Nuevo repositorio para boletines de programación
 
 ## 3º Evaluación
 - [x] [Boletín 19]
-- [x] [Boletín 18]
+- [x] [Boletín 20]
