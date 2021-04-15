@@ -24,5 +24,5 @@ Nuevo repositorio para boletines de programación
 - [x] [Boletín 18](https://github.com/Pablo-Pereira-Moure/Programacion/tree/main/src/com/2%C2%BA%20evaluaci%C3%B3n/Boletin%2018)
 
 ## 3º Evaluación
-- [x] [Boletín 19]
+- [x] [Boletín 19](https://github.com/ppereiramoure/Programacion/tree/main/src/com/3%C2%BA%20evaluaci%C3%B3n/src/com/Pablopm07/Boletin19)
 - [x] [Boletín 20]
