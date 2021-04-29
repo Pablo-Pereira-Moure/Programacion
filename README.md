@@ -29,3 +29,5 @@ Nuevo repositorio para boletines de programación
 - [x] [Boletín 21](https://github.com/ppereiramoure/Programacion/tree/main/src/com/3%C2%BA%20evaluaci%C3%B3n/src/com/Pablopm07/Boletin21)
 - [x] [Boletín 22](https://github.com/ppereiramoure/Programacion/tree/main/src/com/3%C2%BA%20evaluaci%C3%B3n/src/com/Pablopm07/Boletin22)
 - [x] [Boletín 23](https://github.com/ppereiramoure/Programacion/tree/main/src/com/3%C2%BA%20evaluaci%C3%B3n/src/com/Pablopm07/Boletin23)
+- [x] [Boletín 24](https://github.com/ppereiramoure/Programacion/tree/main/src/com/3%C2%BA%20evaluaci%C3%B3n/src/com/Pablopm07/Boletin24)
+
